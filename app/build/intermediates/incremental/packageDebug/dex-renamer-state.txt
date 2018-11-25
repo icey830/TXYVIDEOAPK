@@ -1,0 +1,4 @@
+#Sun Nov 25 19:42:09 CST 2018
+base.0=F\:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

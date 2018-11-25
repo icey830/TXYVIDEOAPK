@@ -1,0 +1,36 @@
+-keep class com.tencent.qcloud.xiaoshipin.TCApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.tencent.qcloud.xiaoshipin.mainui.TCSplashActivity { <init>(); }
+-keep class com.tencent.qalsdk.service.QalService { <init>(); }
+-keep class com.tencent.qalsdk.service.QalAssistService { <init>(); }
+-keep class com.tencent.qalsdk.QALBroadcastReceiver { <init>(); }
+-keep class com.tencent.qalsdk.core.NetConnInfoCenter { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.login.TCLoginActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.login.TCRegisterActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.mainui.TCMainActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.play.TCVodPlayerActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videorecord.TCVideoRecordActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videopublish.TCVideoPublisherActivity { <init>(); }
+-keep class com.tencent.rtmp.video.TXScreenCapture$TXScreenCaptureAssistantActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.WBShareActivity { <init>(); }
+-keep class com.sina.weibo.sdk.component.WeiboSdkBrowser { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.wxapi.WXEntryActivity { <init>(); }
+-keep class com.umeng.qq.tencent.AuthActivity { <init>(); }
+-keep class com.umeng.qq.tencent.AssistActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videochoose.TCPictureChooseActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videochoose.TCVideoChooseActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videoeditor.TCVideoPreprocessActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videojoiner.TCPictureJoinActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videoeditor.TCVideoCutterActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videoeditor.bgm.BGMSelectActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videoeditor.TCVideoEditerActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videoeditor.TCVideoEffectActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.videojoiner.TCVideoJoinerActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.userinfo.TCAboutActivity { <init>(); }
+-keep class android.support.v4.content.FileProvider { <init>(); }
+-keep class com.sina.weibo.sdk.net.DownloadService { <init>(); }
+-keep class com.umeng.socialize.editorpage.ShareActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.mainui.TCSettingActivity { <init>(); }
+-keep class com.tencent.qcloud.xiaoshipin.mainui.TCLanguagaSettingActivity { <init>(); }

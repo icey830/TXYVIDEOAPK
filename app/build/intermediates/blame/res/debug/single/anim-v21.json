@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

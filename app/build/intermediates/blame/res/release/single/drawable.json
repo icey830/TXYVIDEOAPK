@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_input_background.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_input_background.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_illusion_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_illusion_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_time_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_time_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_aspect11.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_aspect11.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tab_home_select.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\tab_home_select.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_time_slow.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_time_slow.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_ghost_shadow_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_ghost_shadow_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_time_repeat.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_time_repeat.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\record_way_selector_txt_color.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\record_way_selector_txt_color.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_play_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_play_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_ghost_shaddow.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_ghost_shaddow.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rb_share_wx.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\rb_share_wx.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_close_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_close_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_middle_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\record_round_bg.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\record_round_bg.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_time_normal.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_time_normal.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_mirror_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_mirror_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_time_bg_normal.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_time_bg_normal.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_record_music.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_record_music.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_phantom_shadow_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_phantom_shadow_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_bottom_pressed.9.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_bottom_pressed.9.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\vp_share_qzone.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\vp_share_qzone.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_lightning_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_lightning_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_single_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_video_bottom_mask.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_video_bottom_mask.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_split_screen.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_split_screen.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\vp_share_circle.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\vp_share_circle.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_list_divider.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_list_divider.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_button_2.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\round_button_2.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_share_qzone.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\icon_share_qzone.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_spirit_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_spirit_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_btn_bg.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_filter_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_filter_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_mirror.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_mirror.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_lightning.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_lightning.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\drawable_ugc_next.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\drawable_ugc_next.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_word_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_word_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_time_reverse.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_time_reverse.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_button_3.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\round_button_3.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rb_share_qzone.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\rb_share_qzone.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_win_shadow_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_win_shadow_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_single_pressed.9.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_phantom_shaddow.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_phantom_shaddow.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\vp_share_qq.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\vp_share_qq.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_middle_normal.9.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_middle_normal.9.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_single_normal.9.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_split_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_split_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_torch_close.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_torch_close.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_middle_pressed.9.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_middle_pressed.9.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress_bg.9.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\progress_bg.9.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_radio_bg.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_radio_bg.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_dark_dream.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_dark_dream.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\vp_share_wb.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\vp_share_wb.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_choose_next_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_choose_next_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rb_share_circle.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\rb_share_circle.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_top_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_light_wave_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_light_wave_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_music_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_music_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_illusion.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_illusion.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_ghost.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_ghost.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rb_share_qq.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\rb_share_qq.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_top_pressed.9.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_top_pressed.9.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\vp_share_wx.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\vp_share_wx.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\toolbar_bg.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\toolbar_bg.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_music_del_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_music_del_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_top_normal.9.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_top_normal.9.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_rock_light.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_rock_light.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_soul_out.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_soul_out.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_share_circle.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\icon_share_circle.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\motion_win_shaddow.gif",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\motion_win_shaddow.gif"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_x_button.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\round_button.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_share_wx.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\icon_share_wx.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\seekbar_progress_drawable.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\seekbar_progress_drawable.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_seek_bar_cursor.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\icon_seek_bar_cursor.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_login.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\btn_login.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_torch_open.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_torch_open.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rb_share_wb.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\rb_share_wb.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_paster_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_paster_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_dark_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_dark_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_time_bg_selected.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_time_bg_selected.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_music_change_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_music_change_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_edit_add_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_edit_add_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\record_speed_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\record_speed_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_motion_ghost_press.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_motion_ghost_press.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\swipe_menu_divider_recycler.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\swipe_menu_divider_recycler.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rect_bg_gray.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\rect_bg_gray.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\default_progress.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\default_progress.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\actionsheet_bottom_normal.9.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\actionsheet_bottom_normal.9.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_switch_camera.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_switch_camera.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_activity_next.png",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\setting_activity_next.png"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_aspect169.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_aspect169.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_time_bg.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_time_bg.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_record_back.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_record_back.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_video_top_mask.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\shape_video_top_mask.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_share_qq.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\icon_share_qq.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_aspect43.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_aspect43.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_delete_last_part.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\selector_delete_last_part.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\rect_bg_green.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\rect_bg_green.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon_share_wb.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\icon_share_wb.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_motion_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_motion_selector.xml"
+    },
+    {
+        "merged": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_pause_selector.xml",
+        "source": "F:\\TXY_xiaoshipin\\XiaoShiPin_Android\\Demo\\app\\src\\main\\res\\drawable\\ic_pause_selector.xml"
+    }
+]
